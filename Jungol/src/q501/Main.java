@@ -1,5 +1,6 @@
+package q501;
 
-public class P501 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
