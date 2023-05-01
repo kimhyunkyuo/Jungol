@@ -21,8 +21,8 @@ public class Main {
 		sc.close();
 		
 		System.out.println(sum);
-		System.out.println(sum/cnt);
-	
+		System.out.printf("%.1f",(double)sum / cnt);
+		
 	}
 
 }
